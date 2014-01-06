@@ -1,0 +1,13 @@
+/*TEAM*/
+Designer/Developper: Megan Davis
+Twitter: @megdjess
+Location: Ottawa, Canada.
+
+/*THANKS*/
+Thanks to all the wonderful people that make the internet and Tiffany Tse.
+
+/*SITE*/
+Last update: 2013/12/6
+Standars: HTML5, CSS3
+Components: Jquey
+Software: Adobe

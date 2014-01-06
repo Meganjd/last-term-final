@@ -1,0 +1,10 @@
+# hashes are comments
+
+# http://en.wikipedia.org/wiki/Robots_exclusion_standard
+# http://robotstxt.org
+
+Sitemap: davi0639.site44.com/dsn1543/project-1/assets/sitemap.zip
+ 
+User-agent: *
+
+Disallow: /name-of-folder/
